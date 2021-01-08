@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK BT Sports 1 FHD
+#EXTINF:0 tvg-id="ext" group-title sport"ChannelsUK BT Sports 1 FHD
 http://ky-iptv.com:25461/powerful/powerful/174235
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK BT Sports 2
+#EXTINF:0 tvg-id="ext" group-title="Channels UK BT Sports 2"
 http://ky-iptv.com:25461/powerful/powerful/174237
-#EXTINF:0 tvg-id="ext" group-title="Channels",UK BT Sports 3
+#EXTINF:0 tvg-id="ext" group-title="Channels UK BT Sports 3"
 http://ky-iptv.com:25461/powerful/powerful/174239
